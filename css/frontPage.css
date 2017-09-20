@@ -1,0 +1,22 @@
+.navbar .navbar-nav {
+	display: inline-block;
+	float: none;
+  	vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+	text-align: center;
+}
+
+a {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.glyphicon {
+	font-size: 30px;
+}
+
+i.custom {
+	font-size: 30px;
+}

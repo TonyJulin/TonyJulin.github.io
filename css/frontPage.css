@@ -21,12 +21,18 @@ i.custom {
 	font-size: 30px;
 }
 
+#homeCarousel {
+	width: auto;
+	height: 600px;
+}
+
 .img-responsive,
 .thumbnail > img,
 .thumbnail a > img,
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
-  display: block;
+  display: inline-block;
   width: 100%;
-  height: auto;
+  height: 600px;
+  object-fit: cover;
 }
